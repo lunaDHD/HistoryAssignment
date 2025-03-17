@@ -1,0 +1,18 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: serif;
+    font-weight: normal;
+    background: var(--surface-ground);
+    color: var(--text-color);
+    margin-top: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    --surface-border: var(--gray-900);
+}
+
+.p-divider-content {
+    color: black;
+}

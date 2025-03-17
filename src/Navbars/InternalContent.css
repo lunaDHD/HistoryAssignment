@@ -1,0 +1,17 @@
+#titleh1 {
+    margin-top: 0;
+}
+
+.card {
+    background: var(--surface-card);
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+.p-fieldset {
+    border-color: black;
+    margin-top:10px;
+}
+.p-fieldset-legend {
+    border-color: black;
+}
